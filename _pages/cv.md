@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV is available [here](/assets/Ayaz-cv.pdf).
+Available [here](/assets/Ayaz-cv.pdf). [Last updated December 2019]
