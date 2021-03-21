@@ -6,14 +6,17 @@ main:
   - title: "News"
     url: /news/
 
+  - title: "Research"
+    url: /research/
+
   - title: "Talks"
-    url: /talk/    
+    url: /talk/
 
   - title: "Teaching"
-    url: /teach/    
-    
+    url: /teach/
+
   - title: "Blog Posts"
     url: /blog-posts/
-    
+
   - title: "CV"
     url: /cv/
