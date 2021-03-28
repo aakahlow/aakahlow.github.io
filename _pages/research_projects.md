@@ -81,7 +81,7 @@ and Lina Sawalha, In IEEE 21st Euromicro Conference on Digital System Design (DS
 - A Comparative Study of ISA Multimedia Extensions for HPC, Ayaz Akram and Sajjad Rahnama, [ECS-201C Project Report](/assets/simd_perf.pdf), Spring 2019, UC Davis.
 
 - A Study on the Impact of Instruction Set Architectures on Processors Performance, Ayaz Akram,
-Master’s Thesis. Url: https://scholarworks.wmich.edu/masters theses/1519.
+Master’s Thesis. Url: https://scholarworks.wmich.edu/masters_theses/1519.
 
 - The Impact of ISAs on Performance, Ayaz Akram and Lina Sawalha, In 14th Annual Workshop
 on Duplicating, Deconstructing, and Debunking (WDDD) in conjunction with ISCA-44, June 2017.
