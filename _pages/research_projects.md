@@ -78,7 +78,7 @@ Contemporary instruction set architectures (ISAs) and their implementations dema
 - A Study of Performance and Power Consumption Differences Among Different ISAs, Ayaz Akram,
 and Lina Sawalha, In IEEE 21st Euromicro Conference on Digital System Design (DSD), August, 2019.
 
-- A Comparative Study of ISA Multimedia Extensions for HPC, Ayaz Akram and Sajjad Rahnama, [ECS-201C Project Report](/assets/simd_perf.pdf), Spring 2019, UC Davis.
+- A Comparative Study of ISA Multimedia Extensions for HPC, Ayaz Akram and Sajjad Rahnama, [ECS-201C Project Report](/papers/simd_perf.pdf), Spring 2019, UC Davis.
 
 - A Study on the Impact of Instruction Set Architectures on Processors Performance, Ayaz Akram,
 Master’s Thesis. Url: https://scholarworks.wmich.edu/masters_theses/1519.
