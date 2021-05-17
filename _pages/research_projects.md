@@ -129,6 +129,11 @@ Jason Lowe-Power, [arXiv preprint](https://arxiv.org/pdf/2012.04105.pdf), Decemb
 
 As the pipeline depth increases to extract out more parallelism aggressively, the need for a continuous supply of fetched instructions increases as well. Relying on repeating behavior of instruction stream and pre-fetching instructions before their actual use, is one of the many used techniques to improve memory performance associated to instructions as it helps to reduce the number of Instruction cache misses and can also overlap miss latencies. Different ideas have been proposed to implement these prefetchers. This project involved studying different instruction prefetching techniques (Next line prefetchers, Return Address Stack Based Prefetching, Proactive instruction prefetch) by implementing them in gem5 simulator and comparing them with a newly proposed technique based on benchmark working set signatures. This project uses different workloads from BigData Bench suite.
 
+**Related (Preliminary) Work**
+
+Phase Based Instruction Prefetcher, Ayaz Akram, [ECE5950 Project Report](/papers/report.pdf), Fall 2015, WMU.
+
+
 ### System Mode Emulation in QEMU for OCTEON MIPS64
 
 System emulation is a better alternative to native testing of applications on embedded hardware in terms of cost, time and management. In this project, we have extended Quick Emulator (QEMU v1.0.1) to support Cavium Octeon MIPS64 processor-based embedded systems. The performance of guest Octeon MIPS64 system is also compared against native using synthetic and applications benchmarks. My specific responsibilities in this project were to provide emulation support for devices like Interrupt Controller, Timers, Console and Ethernet Controller(e1000). I also performed experiments to evaluate and improve the performance of emulated system compared to native hardware system.
