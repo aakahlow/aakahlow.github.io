@@ -162,3 +162,6 @@ Edge detection in a particular image is one of the basic steps of many image pro
 
 Comparison of Edge Detectors, Ayaz Akram and Asad Ismail, In International Journal of Computer Science and Information Technology Research, October 2013. (Journal of Computer Science and Information Technology Research, October 2013.
 
+### Others
+
+A Review of Memory Disambiguation, Ayaz Akram, [ECE 5950 review paper](/papers/mem_disamb.pdf), Fall 2015.
