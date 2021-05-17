@@ -165,3 +165,4 @@ Comparison of Edge Detectors, Ayaz Akram and Asad Ismail, In International Journ
 ### Others
 
 A Review of Memory Disambiguation, Ayaz Akram, [ECE 5950 review paper](/papers/mem_disamb.pdf), Fall 2015.
+Binary Translation Techniques, Ayaz Akram, [ECE 6970 Report](/papers/Binary_Translation.pdf), Summer I 2015.
