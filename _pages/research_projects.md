@@ -23,7 +23,7 @@ national Parallel & Distributed Processing Symposium (IPDPS 2021), May, 2021 [[a
 
 - Setting up Trusted HPC System in the Cloud, Ayaz Akram, Nov 2020, [Blog Post](https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc).
 
-- [Using Trusted Execution Environments on High Performance Computing Platforms](papers/osew-hpc-enclaves-presentation.pdf), Ayaz Akram,
+- [Using Trusted Execution Environments on High Performance Computing Platforms](/papers/osew-hpc-enclaves-presentation.pdf), Ayaz Akram,
 Anna Giannakou, Venkatesh Akella and Jason Lowe-Power and Sean Peisert, In Open-source En-
 claves Workshop (OSEW 2019), July 2019.
 
@@ -41,7 +41,7 @@ Kyle Roarty, Mahyar Samani, Marjan Fariborz, Trivikram Reddy, Matt Sinclair, Jas
 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2021),
 March, 2021.
 
-- [Artifact, Reproducibility and Testing Framework for gem5](papers/ModSim_2020_paper_19.pdf), Ayaz Akram, and et al. In Workshop
+- [Artifact, Reproducibility and Testing Framework for gem5](/papers/ModSim_2020_paper_19.pdf), Ayaz Akram, and et al. In Workshop
 on Modeling & Simulation of Systems and Applications (ModSim’2020), August 2020.
 
 - The gem5 Simulator: Version 20.0+, Jason Lowe-Power, Abdul Mutaal Ahmad, Ayaz Akram, and
@@ -64,7 +64,7 @@ Lowe-Power, IEEE International Symposium on Performance Analysis of Systems and 
 (ISPASS), March 2019.
 
 - A Comparison of x86 Computer Architecture Simulators, Ayaz Akram and Lina
-Sawalha, In ACM/IEEE Supercomputing Conference (SC16) November, 2016. [[Abstract](papers/post233s2-file3.pdf)] [[Poster](papers/SC16Poster_Final.pdf)]
+Sawalha, In ACM/IEEE Supercomputing Conference (SC16) November, 2016. [[Abstract](/papers/post233s2-file3.pdf)] [[Poster](/papers/SC16Poster_Final.pdf)]
 
 - x86 Computer Architectural Simulators: A Comparative Study, Ayaz Akram and Lina Sawalha,
 In IEEE 34th International Conference on Computer Design (ICCD), October 2016.
