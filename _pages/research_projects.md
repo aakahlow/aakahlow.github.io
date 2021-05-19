@@ -36,7 +36,7 @@ I am also involved in a project to build [gem5art](https://gem5art.readthedocs.i
 
 ### Related Research Works
 
-- Enabling reproducible and agile full-system simulation, Bobby Bruce, Ayaz Akram, Hoa Nguyen,
+- [Enabling reproducible and agile full-system simulation](https://arch.cs.ucdavis.edu/assets/papers/ispass21-gem5art.pdf), Bobby Bruce, Ayaz Akram, Hoa Nguyen,
 Kyle Roarty, Mahyar Samani, Marjan Fariborz, Trivikram Reddy, Matt Sinclair, Jason Lowe-Power,
 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2021),
 March, 2021.
@@ -52,14 +52,14 @@ in conjunction with ISCA 2020, June 2020.
 
 - X86 Linux Boot Status on gem5-19, Ayaz Akram, Mar 2020, [Blog Post](https://www.gem5.org/project/2020/03/09/boot-tests.html).
 
-- Validation of the gem5 Simulator for x86 Architectures, Ayaz Akram, and Lina Sawalha, In
+- [Validation of the gem5 Simulator for x86 Architectures](https://sc19.supercomputing.org/proceedings/workshops/workshop_files/ws_pmbss111s2-file1.pdf), Ayaz Akram, and Lina Sawalha, In
 IEEE/ACM Performance Modeling, Benchmarking and Simulation of High Performance Computer
 Systems (PMBS) in conjunction with Supercomputing Conference (SC19), November 2019.
 
-- A Survey of Computer Architecture Simulation Techniques and Tools, Ayaz Akram, and Lina
+- [A Survey of Computer Architecture Simulation Techniques and Tools](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8718630), Ayaz Akram, and Lina
 Sawalha, In IEEE Access, May 2019.
 
-- FlexCPU: A Configurable Out-of-Order CPU Abstraction, Bradley Wang, Ayaz Akram, and Jason
+- [FlexCPU: A Configurable Out-of-Order CPU Abstraction](https://arch.cs.ucdavis.edu/assets/papers/ispass19-flexcpu.pdf), Bradley Wang, Ayaz Akram, and Jason
 Lowe-Power, IEEE International Symposium on Performance Analysis of Systems and Software
 (ISPASS), March 2019.
 
@@ -75,13 +75,13 @@ Contemporary instruction set architectures (ISAs) and their implementations dema
 
 ### Related Research Works
 
-- A Study of Performance and Power Consumption Differences Among Different ISAs, Ayaz Akram,
+- [A Study of Performance and Power Consumption Differences Among Different ISAs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8875032), Ayaz Akram,
 and Lina Sawalha, In IEEE 21st Euromicro Conference on Digital System Design (DSD), August, 2019.
 
 - A Comparative Study of ISA Multimedia Extensions for HPC, Ayaz Akram and Sajjad Rahnama, [ECS-201C Project Report](/papers/simd_perf.pdf), Spring 2019, UC Davis.
 
 - A Study on the Impact of Instruction Set Architectures on Processors Performance, Ayaz Akram,
-Master’s Thesis. Url: https://scholarworks.wmich.edu/masters_theses/1519.
+[Master’s Thesis](https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=2517&context=masters_theses). Url: https://scholarworks.wmich.edu/masters_theses/1519.
 
 - [The Impact of ISAs on Performance](/papers/Ayaz_WDDD2017.pdf), Ayaz Akram and Lina Sawalha, In 14th Annual Workshop
 on Duplicating, Deconstructing, and Debunking (WDDD) in conjunction with ISCA-44, June 2017.
