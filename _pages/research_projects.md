@@ -21,7 +21,7 @@ High performance computing (HPC) is moving away from traditional simulation and 
 Akram, Anna Giannakou, Venkatesh Akella, Jason Lowe-Power and Sean Peisert, 35th IEEE Inter-
 national Parallel & Distributed Processing Symposium (IPDPS 2021), May, 2021 [[arxiv version](https://arxiv.org/pdf/2010.13216.pdf)].
 
-- Trusted Execution for High-Performance Computing, Ayaz Akram, 15th EuroSys Doctoral Workshop (EuroDW 2021), 2021. [[paper](/paper/eurodw.pdf)] [[video](https://www.youtube.com/watch?v=7CLwftj1_Hs)]
+- Trusted Execution for High-Performance Computing, Ayaz Akram, 15th EuroSys Doctoral Workshop (EuroDW 2021), 2021. [[paper](/papers/eurodw.pdf)] [[video](https://www.youtube.com/watch?v=7CLwftj1_Hs)]
 
 - Architectures for Secure High-Performance Computing, Ayaz Akram, Young Architect Workshop (YArch ’21) held in conjunction with the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April, 2021. [[paper](/papers/yarch.pdf)] [[poster](/papers/yarch_poster.jpg)] [[video](https://www.youtube.com/watch?v=cvL37bn04IQ)]
 
