@@ -15,7 +15,7 @@ High performance computing (HPC) is moving away from traditional simulation and 
 
 ### Related Research Works
 
-- Enabling Design Space Exploration for RISC-V Secure Compute Environments, Ayaz Akram, Venkatesh Akella, Sean Peisert, Jason Lowe-Power. Fifth Workshop on Computer Architecture Research with RISC-V (CARRV 2021), with ISCA 2021. [paper](https://arch.cs.ucdavis.edu/papers/2021-6-11-gem5-tee)
+- Enabling Design Space Exploration for RISC-V Secure Compute Environments, Ayaz Akram, Venkatesh Akella, Sean Peisert, Jason Lowe-Power. Fifth Workshop on Computer Architecture Research with RISC-V (CARRV 2021), with ISCA 2021. [paper](https://arch.cs.ucdavis.edu/security/simulation/2021/06/11/gem5-tee.html)
 
 - Performance Analysis of Scientific Computing Workloads on General Purpose TEEs, Ayaz
 Akram, Anna Giannakou, Venkatesh Akella, Jason Lowe-Power and Sean Peisert, 35th IEEE Inter-
@@ -39,6 +39,9 @@ Currently, I mostly focus on gem5. Recently, I have been contributing to the RIS
 I am also involved in a project to build [gem5art](https://gem5art.readthedocs.io/en/latest/), a tool for reproducible and structured experiments with gem5 and build [gem5-resources](https://www.gem5.org/documentation/general_docs/gem5_resources/) to help researchers set-up their gem5 experiments in a short time.
 
 ### Related Research Works
+
+
+- [Modeling HBM2 Memory Controller](/papers/gem5Users_2021.pdf), Ayaz Akram, Maryam Babaie, Wendy Elsasser, and Jason Lowe-Power. In gem5 Users Workshop in conjunction with ISCA 2022.
 
 - [Enabling reproducible and agile full-system simulation](https://arch.cs.ucdavis.edu/assets/papers/ispass21-gem5art.pdf), Bobby Bruce, Ayaz Akram, Hoa Nguyen,
 Kyle Roarty, Mahyar Samani, Marjan Fariborz, Trivikram Reddy, Matt Sinclair, Jason Lowe-Power,
