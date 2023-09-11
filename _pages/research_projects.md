@@ -15,6 +15,8 @@ High performance computing (HPC) is moving away from traditional simulation and 
 
 ### Related Research Works
 
+- SoK: Limitations of Confidential Computing via TEEs for High-Performance Compute Systems, Ayaz Akram, Venkatesh Akella, Sean Peisert, Jason Lowe-Power. IEEE International Symposium on Secure and Private Execution Environment Design (SEED), September 2022. [paper]()
+
 - Enabling Design Space Exploration for RISC-V Secure Compute Environments, Ayaz Akram, Venkatesh Akella, Sean Peisert, Jason Lowe-Power. Fifth Workshop on Computer Architecture Research with RISC-V (CARRV 2021), with ISCA 2021. [paper](https://arch.cs.ucdavis.edu/security/simulation/2021/06/11/gem5-tee.html)
 
 - Performance Analysis of Scientific Computing Workloads on General Purpose TEEs, Ayaz
