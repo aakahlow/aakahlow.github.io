@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Open to New Opportunities:** I am currently on the job market. My research experience includes work on confidential computing architectures for HPC, heterogeneous memory systems, simulation and modeling, analysis of instruction set architectures, and simulator validation.
+**Open to New Opportunities:** I am currently on the job markek seeking Roles in Computer Architecture, HPC, and Hardware Security, and Machine Learning Hardware Industrial and Academic Research Labs. My research experience includes work on confidential computing architectures for HPC, heterogeneous memory systems, simulation and modeling, analysis of instruction set architectures, and simulator validation.
 
 This is an exciting time to be a computer architect. Traditional performance gains owing to scaling of transistor size are diminishing, applications are increasingly getting diverse and researchers have been continuously exposing micro-architectural and architectural security vulnerabilities. All of this makes me passionate about research in Computer Architecture. Generally, the idea of doing research to increase computing efficiency inspires me as it can unlock numerous longstanding scientific mysteries. I also like to work at the intersection of Computer Architecture and areas like Information Security and Machine Learning.
 
