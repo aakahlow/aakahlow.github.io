@@ -5,6 +5,26 @@ permalink: /news/
 author_profile: true
 ---
 
+- September-2022: Paper titled "SoK: Limitations of Confidential Computing via TEEs for High-Performance Compute Systems" accepted and presented at IEEE International Symposium on Secure and Private Execution Environment Design (SEED). 
+
+- August-2022: Presented work on future heterogeneous memory system modeling in gem5 at Workshop on Modeling & Simulation of Systems and Applications (ModSim), August 2022.
+
+- June-2022: Presented work on memory system modeling at 4th gem5 Users’ Workshop associated with ISCA.
+
+- June-2022: Presented our work on design of data enclaves for scientific computing at DOE Data Days Workshop, LLNL.
+  
+- December-2021: I passed my PhD QE and became a PhD Candidate.
+
+- August-2021: Presented our work on simulating TEEs at Workshop on Modeling & Simulation of Sys- tems and Applications (ModSim).
+
+- June-2021: Our paper "Enabling Design Space Exploration for RISC-V Secure Compute Environments" accepted and presented at Fifth Workshop on Computer Architecture Research with RISC-V (CARRV 2021), with ISCA 2021.
+
+- May-2021: Presented a paper on benchmarking of hardware based Trusted Execution Environments (TEEs) for Scientific Computing at IPDPS 2021.
+
+- April-2021: Presented our work on "Architectures for Secure High-Performance Computing" at Young Architect Workshop (YArch ’21) held in conjunction with ASPLOS.
+
+- April-2021: Presented our work on trusted execution for HPC at EuroSys Doctoral Work- shop (EuroDW 2021).
+
 - Feb-2021: Our paper "Enabling reproducible and agile full-system simulation" is accepted to ISPASS 2021 and nominated for **Best Paper Award**.
 
 - Dec-2020: Paper on benchmarking of hardware based Trusted Execution Environments (TEEs) for Scientific Computing accepted to IPDPS 2021 [[arxiv version](https://arxiv.org/pdf/2010.13216.pdf)].
