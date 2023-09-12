@@ -15,7 +15,7 @@ High performance computing (HPC) is moving away from traditional simulation and 
 
 ### Related Research Works
 
-- SoK: Limitations of Confidential Computing via TEEs for High-Performance Compute Systems, Ayaz Akram, Venkatesh Akella, Sean Peisert, Jason Lowe-Power. IEEE International Symposium on Secure and Private Execution Environment Design (SEED), September 2022. [paper]()
+- SoK: Limitations of Confidential Computing via TEEs for High-Performance Compute Systems, Ayaz Akram, Venkatesh Akella, Sean Peisert, Jason Lowe-Power. IEEE International Symposium on Secure and Private Execution Environment Design (SEED), September 2022. [paper](https://arch.cs.ucdavis.edu/assets/papers/seed-sok.pdf) [Slides](https://arch.cs.ucdavis.edu/security/2022/09/26/seed-sok.html)
 
 - Enabling Design Space Exploration for RISC-V Secure Compute Environments, Ayaz Akram, Venkatesh Akella, Sean Peisert, Jason Lowe-Power. Fifth Workshop on Computer Architecture Research with RISC-V (CARRV 2021), with ISCA 2021. [paper](https://arch.cs.ucdavis.edu/security/simulation/2021/06/11/gem5-tee.html)
 
@@ -42,8 +42,27 @@ I am also involved in a project to build [gem5art](https://gem5art.readthedocs.i
 
 ### Related Research Works
 
+- [Analyzing Google Workload Traces in gem5](/papers/analyzing-google-workload-traces-in-gem5-poster.pdf), Ayaz Akram, Maryam Babaie, Jason Lowe-Power,
+5th gem5 Users’ Workshop associated with ISCA, June 2023.
+
+- [What not to do when simulating large workloads!](https://www.gem5.org/assets/files/workshop-isca-2023/slides/what-not-to-do-when-simulating-large-workloads.pdf), Maryam Babaie, Ayaz Akram, Jason Lowe-Power, 5th gem5 Users' Workshop associated with ISCA, June 2023.
+
+- [Enabling Design Space Exploration of DRAM Caches in Emerging Memory Systems](https://arxiv.org/pdf/2303.13029.pdf), Maryam Babaie, Ayaz Akram, Jason Lowe-Power. IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2023), April, 2023.
+
+- [A Cycle-level Unified DRAM Cache Controller Model for 3DXPoint Memory Systems in gem5](https://arxiv.org/pdf/2303.13026.pdf), Maryam Babaie, Ayaz Akram, Jason Lowe-Power.
+
+- [HammerSim: A Tool to Model Rowhammer](https://arch.cs.ucdavis.edu/memory/simulation/security/2023/03/20/yarch-hammersim.html), Kaustav Goswami, Ayaz Akram, Hari Venugopalan, Jason Lowe-Power. Young Architect Workshop (YArch), colocated with ASPLOS 2023.
+
+- [Toward High-Fidelity Heterogeneous Memory System Modeling in gem5](https://arch.cs.ucdavis.edu/memory/2022/12/12/dcache-modsim.html), Maryam Babaie, Ayaz Akram, Jason Lowe-Power. Workshop on Modeling \& Simulation of Systems and Applications (ModSim), August 2022. **[Sudha Award Finalist]**.
+
+- [Simulating Trusted Execution Environments in gem5](/papers/gem5-keystone-modsim-v2.pdf), Workshop on Modeling & Simulation of Systems and Applications (ModSim), August 2021.
 
 - [Modeling HBM2 Memory Controller](/papers/gem5Users_2021.pdf), Ayaz Akram, Maryam Babaie, Wendy Elsasser, and Jason Lowe-Power. In gem5 Users Workshop in conjunction with ISCA 2022.
+
+- [A Cycle-level Unified DRAM Cache Controller Model in gem5](https://arch.cs.ucdavis.edu/memory/2022/12/12/udcc-gem5-workshop-isca.html), Maryam Babaie, Ayaz Akram, Jason Lowe-Power. 4th gem5 Users’ Workshop associated with ISCA, June 2022.
+
+- [Enabling Design Space Exploration for RISC-V Secure Compute Environments](https://arch.cs.ucdavis.edu/security/simulation/2021/06/11/gem5-tee.html), Ayaz Akram, Venkatesh Akella, Sean Peisert, Jason Lowe-Power. Fifth Workshop on Computer Architecture Research with RISC-V (CARRV 2021), with ISCA 2021, June 2021.
+
 
 - [Enabling reproducible and agile full-system simulation](https://arch.cs.ucdavis.edu/assets/papers/ispass21-gem5art.pdf), Bobby Bruce, Ayaz Akram, Hoa Nguyen,
 Kyle Roarty, Mahyar Samani, Marjan Fariborz, Trivikram Reddy, Matt Sinclair, Jason Lowe-Power,

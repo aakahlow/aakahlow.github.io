@@ -15,6 +15,9 @@ main:
   - title: "Teaching"
     url: /teach/
 
+  - title: "Media"
+    url: /media/
+
   - title: "Blog Posts"
     url: /blog-posts/
 
